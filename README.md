@@ -14,8 +14,6 @@
 
 有人说过，计算机创业，硕士毕业的比不过本科毕业的，本科毕业的比不过本科辍学的，本科辍学的比不过没上过大学的。
 
-听来有些荒谬，却又真实得令人动容。
-
 这也许正是我们普通人，唯一一次改造世界的机会，只要你敢写下第一行代码，你就拥有了创造未来的可能。
 
 > The people who are crazy enough to think they can change the world are the ones who do.” ——Steve Jobs
